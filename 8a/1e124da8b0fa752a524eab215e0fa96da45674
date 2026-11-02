@@ -1,0 +1,21 @@
+.python-version
+  s_dd90dee80b9480::t_0ab36d930613a0 1
+uv.lock
+  s_dd90dee80b9480::t_9655ad8ee7f02a 1-549
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8a1e124da8b0fa752a524eab215e0fa96da45674",
+  "prompts": {},
+  "sessions": {
+    "s_dd90dee80b9480": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "51ce2234-7540-4a07-9181-bae3164603f0",
+        "model": "unknown"
+      },
+      "human_author": "Ali Aras <aliaras@outlook.com>"
+    }
+  }
+}
